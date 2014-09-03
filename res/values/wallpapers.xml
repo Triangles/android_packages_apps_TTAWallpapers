@@ -16,7 +16,12 @@
 -->
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>ocean</item>
+        <item>Ground</item>
+		<item>NightCity</item>
+		<item>SomeProblems</item>
+		<item>Sunset</item>
+		<item>Winter</item>
+		<item>ocean</item>
 		<item>ocean2</item>
 		<item>patience1</item>
         <item>red</item>
@@ -26,6 +31,11 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+	    <item>Ground - LimeOn</item>
+		<item>NightCity - OnPlay</item>
+		<item>SomeProblems - OnPlay</item>
+		<item>Sunset - OnPlay</item>
+		<item>Winter - OnPlay</item>
         <item>Ocean - Blaze</item>
         <item>Ocean2 - Blaze</item>
 		<item>Patience - OnPlay</item>
