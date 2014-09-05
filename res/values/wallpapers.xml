@@ -16,11 +16,11 @@
 -->
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>Ground</item>
-		<item>NightCity</item>
-		<item>SomeProblems</item>
-		<item>Sunset</item>
-		<item>Winter</item>
+        <item>ground</item>
+		<item>nightcity</item>
+		<item>someproblems</item>
+		<item>sunset</item>
+		<item>winter</item>
 		<item>ocean</item>
 		<item>ocean2</item>
 		<item>patience1</item>
