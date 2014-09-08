@@ -17,29 +17,29 @@
 <resources>
     <string-array name="wallpapers" translatable="false">
 		<item>rain</item>
-        <item>ground</item>
+		<item>ground</item>
 		<item>nightcity</item>
 		<item>someproblems</item>
 		<item>sunset</item>
 		<item>winter</item>
 		<item>ocean</item>
 		<item>ocean2</item>
-        <item>snowground</item>
+        	<item>snowground</item>
 		<item>sunrise</item>
-        <item>triangles</item>
+        	<item>triangles</item>
     </string-array>
 
     <string-array name="info" translatable="false">
 		<item>Rain - LimeOn</item>
-	    <item>Ground - LimeOn</item>
+	    	<item>Ground - LimeOn</item>
 		<item>NightCity - OnPlay</item>
 		<item>SomeProblems - OnPlay</item>
 		<item>Sunset - OnPlay</item>
 		<item>Winter - OnPlay</item>
-        <item>Ocean - Blaze</item>
-        <item>Ocean2 - Blaze</item>
-        <item>SnowGround - OnPlay</item>
+	        <item>Ocean - Blaze</item>
+	        <item>Ocean2 - Blaze</item>
+	        <item>SnowGround - OnPlay</item>
 		<item>Sunrise - Blaze</item>
-        <item>Triangles - LimeOn</item>
+	        <item>Triangles - LimeOn</item>
     </string-array>
 </resources>
