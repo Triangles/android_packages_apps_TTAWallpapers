@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2014 Team Triangles ROM Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="wallpapers" translatable="false">
+		<item>alwayslight</item>
+		<item>gyeongbokgoong</item>
+		<item>hellotomyself</item>
+		<item>inwang</item>
+		<item>nationalpalace</item>
+		<item>sunshine</item>
+		<item>bridge</item>
+		<item>fogandboat</item>
+		<item>undertheeaves</item>
+		<item>rain</item>
+		<item>ground</item>
+		<item>nightcity</item>
+		<item>someproblems</item>
+		<item>sunset</item>
+		<item>winter</item>
+		<item>ocean</item>
+		<item>ocean2</item>
+        	<item>snowground</item>
+		<item>sunrise</item>
+        	<item>triangles</item>
+    </string-array>
+
+    <string-array name="info">
+		<item>밤의 거리 - AlwaysLight</item>
+		<item>경복궁 - AlwaysLight</item>
+		<item>나 자신에게. - AlwaysLight</item>
+		<item>인왕산 - AlwaysLight</item>
+		<item>전통가옥 - AlwaysLight</item>
+		<item>햇빛 - AlwaysLight</item>
+		<item>다리 - AlwaysLight</item>
+		<item>배와 안개- AlwaysLight</item>
+		<item>처마 아래에서 - AlwaysLight</item>
+		<item>비 - Fluorine</item>
+	    	<item>나무바닥 - Fluorine</item>
+		<item>밤의 도시 - OnPlay</item>
+		<item>문제? - OnPlay</item>
+		<item>해가 지고 - OnPlay</item>
+		<item>겨울 - OnPlay</item>
+	     <item>바다 - AlwaysLight</item>
+	     <item>바다2 - AlwaysLight</item>
+	     <item>눈길 - OnPlay</item>
+		<item>해뜰녘 - AlwaysLight</item>
+	     <item>트라이앵글 - Fluorine</item>
+    </string-array>
+</resources>
